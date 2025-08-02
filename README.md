@@ -1,6 +1,6 @@
 ## Level Designer
-## Demo
+## Demo:
 ![image](https://github.com/user-attachments/assets/38d7dad1-04d8-419d-a0e1-6187151af499)
 
-## Author
+## Author:
 Co-authored-by: Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
